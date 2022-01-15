@@ -27,11 +27,17 @@ Next, I built the AI for the enemies using A* pathfinding. As well as creating t
 
 
 ## Story 4: Complete Gameplay Model
-Here I finished the game in its basic form. I added the inflation mechanic when DigDug shoots the enemy.
+Here I finished the game in its basic form. I added the inflation mechanic when DigDug shoots the enemy. Also added animations to DigDug and the enemies.
 
 ![DigDugInflation](https://user-images.githubusercontent.com/73494842/149606229-e662d752-aade-4e30-b240-1a30555bed51.gif)
 
+![DigDugInflationCode](https://user-images.githubusercontent.com/73494842/149606432-8e722a67-dc38-4f0d-a8a4-df0b6d8d0299.png)
+
 
 ## Story 5: Final Touches
+I made some final touches to my game, including sound effects and music.
+
+![DigDugFinal](https://user-images.githubusercontent.com/73494842/149606755-74503d66-3451-43ec-b8c8-855d347fdc58.gif)
+
 
 

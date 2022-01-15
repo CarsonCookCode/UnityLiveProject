@@ -7,6 +7,7 @@ Here are some of the highlights from the project:
 
 ## Story 1: Creating the Basic Scenes
 
+![DigDugStart](https://user-images.githubusercontent.com/73494842/149604794-feac0f79-4069-4a73-8d78-d65fc7a78a27.png)
 
 ## Story 2: Level Design and Player Behavior
 

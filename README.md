@@ -18,6 +18,9 @@ In this story, I began diving into blueprints and working out the details of eac
 
 I created a mechanic a prominent location in the level where the player would have to decipher 3 instructions, each corresponding to a puzzle. Solving each puzzle would give the player a location to place a pillar to unlock the gate leading to the exit to win the game. 
 
+![Screenshot (24)](https://user-images.githubusercontent.com/73494842/155037603-e2784116-ecdd-4b58-8ef9-7222ae5f2ab3.png)
+
+
 In the first puzzle, the player would interact with a statue, which would then disappear and reappear elsewhere on the map. The player would continue to locate the statues' new locations until arriving at the final location which lead them to an answer.
 
 In the second puzzle, the player would perform precise jumps in a jumping puzzle in order to discover the location of another answer.

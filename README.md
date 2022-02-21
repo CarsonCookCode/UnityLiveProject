@@ -53,6 +53,8 @@ I made some final touches to my game, including sound effects and ambience, deco
 
 After having multiple people playtest my game I determined that the level should be more easily understandable and user friendly, so I made some changes to make it more accessible.
 
+![Screenshot (33)](https://user-images.githubusercontent.com/73494842/155038037-ece667a8-eb6a-40d1-b9a7-ff47d88b2210.png)
+
 
 
 
